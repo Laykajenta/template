@@ -1,3 +1,8 @@
+html{
+    box-sizing: border-box;
+}
 body{
     font-family: "Playwrite NO";
+    margin: 0;
+    background-color: rgb(244, 223, 198);
 }
